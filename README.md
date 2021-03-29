@@ -1,16 +1,15 @@
 EXEMPLOS 
 https://florenciodaniel.github.io/meanime/
 
-&lt;br&gt; 
+<br>
 Para obter a animaçao
-&lt;br&gt; 
+<br>
 1° - adicionar meanime.css ao header do documento
-&lt;br&gt; 
+<br>
 2° - adicionar meanime.js ao documento
-&lt;br&gt; 
+<br>
 3° - adicionar data-meanime="exemplo" a tag html que se quer animar
-&lt;br&gt; 
+<br>
 ex.
-&lt;br&gt; 
+<br>
 &lt; p data-meanime="exemplo" &gt; Texto de exemplo!&lt; /p&gt; 
-&lt;br&gt; 
